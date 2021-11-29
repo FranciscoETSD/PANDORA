@@ -3,4 +3,5 @@
     <string name="app_name">PANDORA</string>
     <string name="nombre_de_usuario">Nombre de usuario</string>
     <string name="contraseña">Contraseña</string>
+    <string name="button_text">INGRESAR</string>
 </resources>

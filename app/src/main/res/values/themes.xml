@@ -14,4 +14,10 @@
         <item name="colorControlNormal">@color/editText_colorControlNormal</item>
         <item name="colorControlActivated">@color/editText_ColorControlActived</item>
     </style>
+
+    <style name="RaiseButtonDark" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">@color/colorPrimaryDark</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+        <item name="android:textColor">@color/button_textColor</item>
+    </style>
 </resources>
