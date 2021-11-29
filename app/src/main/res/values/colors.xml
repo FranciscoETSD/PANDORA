@@ -10,4 +10,6 @@
     <color name="editText_ColorControlActived">#FFFFFF</color>
     <color name="button_textColor">#FFFFFF</color>
     <color name="Rounded">#FFFFFF</color>
+
+    <color name="textView_textColor">#FFFFFF</color>
 </resources>

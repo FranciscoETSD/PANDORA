@@ -73,6 +73,31 @@
                    android:layout_marginTop="@dimen/login_marginTop"
                    android:text="@string/button_text"
                    android:theme="@style/RaiseButtonDark" />
+
+               <RelativeLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:gravity="center">
+
+                   <TextView
+                       android:id="@+id/no_tienes_cuenta"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="@string/no_tienes_cuenta"
+                       android:textColor="@color/textView_textColor"
+                       android:textSize="@dimen/textView_textSize"/>
+
+                   <TextView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:layout_marginLeft="4dp"
+                       android:layout_toRightOf="@+id/no_tienes_cuenta"
+                       android:onClick="goCreateAccount"
+                       android:text="@string/registrate"
+                       android:textColor="@color/textView_textColor"
+                       android:textSize="@dimen/textView_textSize"
+                       android:textStyle="bold" />
+               </RelativeLayout>
            </LinearLayout>
        </ScrollView>
     </LinearLayout>
