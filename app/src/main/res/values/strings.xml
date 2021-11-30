@@ -4,5 +4,11 @@
     <string name="contraseña">Contraseña</string>
     <string name="button_text">INGRESAR</string>
     <string name="registrate">registrate</string>
-    <string name="no_tienes_cuenta">¿no_tienes_cuenta?</string>
+    <string name="no_tienes_cuenta">¿no tienes cuenta?</string>
+    <string name="correo">Correo</string>
+    <string name="nombre">Nombre</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="confirme_contraseña">Confirme contraseña</string>
+    <string name="button_text_create_account">REALIZA TU PEDIDO YA</string>
 </resources>
